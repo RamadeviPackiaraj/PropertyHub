@@ -1,0 +1,9 @@
+User
+
+email: john@example.com
+Password: 123456
+
+Admin
+
+email: admin@admin.com
+password: 123456
